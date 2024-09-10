@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=A3DCBE&height=150&section=header&text=green'sSTAT-LOG%20&fontSize=60&animation=fadeIn&fontAlignY=50&fontColor=FFFFF0&desc=ChaeHyun%20Lim&descSize=15&descAlign=50&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=A3DCBE&height=150&section=header&text=green's%20STAT-LOG%20&fontSize=60&animation=fadeIn&fontAlignY=50&fontColor=FFFFF0&desc=ChaeHyun%20Lim&descSize=15&descAlign=50&descAlignY=75)
 
 ## I'm Green Lim (ChaeHyun Lim)
 
